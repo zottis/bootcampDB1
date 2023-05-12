@@ -1,2 +1,7 @@
 git config --global user.name "yourName"
 git config --global user.email "YourEmail"
+
+git branch "Nome da Branch"
+git checkout "Nome da Branch"
+
+git checkout -b nome ->Cria a branch se não existir e se existir vai para ela*/
