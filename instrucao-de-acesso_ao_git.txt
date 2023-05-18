@@ -1,2 +1,7 @@
 git config --global user.name "yourName"
 git config --global user.email "YourEmail"
+
+
+cd -> vai para pasta
+ls -> lista pasta
+git checkout NomeDaBranch
