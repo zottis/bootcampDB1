@@ -10,4 +10,4 @@ git checkout NomeDaBranch -> para ir para a Branch
 git checkout NomeDaBranch -b donnuts   -> Cria a branch se não existe e vai para ir para a Branch
 git pull origin main -> Atualiza a Branch com a versão mais atual da Branch Main  
 
-stash -> serve para guradar arquivos sem commitar
+stash -> serve para guardar arquivos sem commitar
