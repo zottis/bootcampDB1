@@ -4,11 +4,12 @@ git config --global user.email "YourEmail"
 
 cd -> vai para pasta
 ls -> lista pasta
-<<<<<<< HEAD
 git pull ->atualiza o Git na máquina
 git checkout NomeDaBranch -> para ir para a Branch
 
 git checkout NomeDaBranch -b donnuts   -> Cria a branch se não existe e vai para ir para a Branch
-=======
-git checkout NomeDaBranch
->>>>>>> eb89a562cd24d2480dd87ac94f26e11d099ed33c
+git pull origin main -> Atualiza a Branch com a versão mais atual da Branch Main  
+
+stash -> serve para guradar arquivos sem commitar
+
+git merge main -> atualizar a partir do Main
